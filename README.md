@@ -7,7 +7,7 @@
 
 ## Background
 Bootstrap練習用。
-CRACKの模擬サイト(@Sabbath_Futsal)
+CRACKの模擬サイト(@Sabbath_Futsal)  
 https://twitter.com/Sabbath_Futsal
 
 ## URL
